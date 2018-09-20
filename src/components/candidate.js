@@ -6,7 +6,7 @@ class Candidate extends Component {
     return (
       <div className="App"> 
 
-      	<p> This is the Candidate element</p>
+      	<p> This is the Candidate component</p>
         
       </div>
     );

@@ -12,6 +12,8 @@ class Home extends Component {
               Candidate Page
            </button>
          </Link>
+         
+         <br />
 
         <Link to="/about">
           <button>
